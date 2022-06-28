@@ -13,9 +13,9 @@
 
 
 <h3 align="center">languages and tools</h3>
-<img align="left" alt= "Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"width="90" height="35" border="0" style="display:block;" />
-<img align="left" alt= "Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" width="90" height="35" border="0" style="display:block;"/>
-<img align="left" alt= "Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="90" height="35" border="0" style="display:block;"/>
+<img align="left" alt= "Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"width="90" height="35"   />
+<img align="left" alt= "Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" width="90" height="35"  />
+<img align="left" alt= "Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="90" height="33" border="0" style="display:block;"/>
 <img align="left" alt= "R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" width="90" height="35" border="0" style="display:block;"/>
 <img align="left" alt= "Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="90" height="35" border="0" style="display:block;"/>
 <img align="left" alt= "PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" width="90" height="35" border="0" style="display:block;"/>
@@ -31,9 +31,9 @@
 <img align="left" alt= "Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"width="90" height="35" border="0" style="display:block;"/>
 <img align="left" alt= "Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"width="90" height="35" border="0" style="display:block;"/>
 <img align="left" alt= "Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"width="90" height="35" border="0" style="display:block;"/>
-<img align="left" alt= "Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"width="90" height="35" border="0" style="display:block;"/>
-<img align="left" alt= "Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"width="90" height="35" border="0" style="display:block;"/>
-<img align="left" alt= "Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"width="90" height="35" border="0" style="display:block;"/>
+<img align="left" alt= "Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"width="120" height="35" />
+<img align="left" alt= "Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"width="120" height="35" />
+<img align="left" alt= "Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"width="120" height="35" />
 <img align="left" alt= "Eclipse" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"width="90" height="35" border="0" style="display:block;"/>
 <img align="left" alt= "Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"width="90" height="35" border="0" style="display:block;"/>
 <img align="left" alt= "Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"width="90" height="35" border="0" style="display:block;"/>
