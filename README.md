@@ -12,7 +12,7 @@
 - ⚡ Fun fact **When the moon is directly overhead, you will weigh slightly less.**
 
 
-<h3 align="center">languages and tools</h3>
+<h2 align="center">Languages and Tools</h2>
 <p align="left"> 
 <img alt= "Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 <img alt= "Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
