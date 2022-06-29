@@ -1,5 +1,5 @@
 <h1 align="center">hello world👋, I'm Nourah ALFulaij</h1>
-<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=1200x900&vertical=top" height="175px"/></a>
+<a href="#"><img width="30%" height="auto" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=1200x900&vertical=top" height="175px"/></a>
 <h3 align="center">A passionate cybersecurity Student</h3>
 
 - 🔭 I’m currently working on [Odyssey](https://github.com/ShathaAldosari01/gp1_7_2022)
