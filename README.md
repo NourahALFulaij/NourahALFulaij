@@ -10,7 +10,7 @@
 
 - 💜 Interested in **Cyber security, UX/UI, applications and web development**
 
-- 📸 I edit **pictures/videos for fun**
+- 📸 I love take and  edit **pictures/videos for memories**
 
 - ⚡ Fun fact **When the moon is directly overhead, you will weigh slightly less.**
 
